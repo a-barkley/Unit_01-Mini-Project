@@ -12,10 +12,20 @@ header {
 footer {
     position: fixed;
     background-color: pink;
-    
+    z-index: 1;
+    width: 100%;
 }
 
+.navbar {
+    display: inline;
+    text-align: right;
+}
 
+#welcomeimage {
+    position: relative;
+    left: 380px;
+    top: 62px;
+}
 
 #welcometext {
     color: green;
