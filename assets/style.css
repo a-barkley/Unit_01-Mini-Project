@@ -1,0 +1,26 @@
+* {
+    font-family: 'Times New Roman', serif;
+}
+
+header {
+    position: fixed;
+    background-color: aqua;
+    z-index: 1;
+    width: 100%;
+}
+
+footer {
+    position: fixed;
+    background-color: pink;
+    
+}
+
+
+
+#welcometext {
+    color: green;
+}
+
+#signinhere {
+    text-align: center;
+}
